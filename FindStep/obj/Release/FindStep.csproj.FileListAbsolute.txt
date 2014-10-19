@@ -1,0 +1,5 @@
+D:\work\Project\BoostTree\target\FindStepLib.dll
+D:\work\Project\BoostTree\target\FindStepLib.pdb
+D:\work\Project\BoostTree\FindStep\obj\Release\FindStep.csprojResolveAssemblyReference.cache
+D:\work\Project\BoostTree\FindStep\obj\Release\FindStepLib.dll
+D:\work\Project\BoostTree\FindStep\obj\Release\FindStepLib.pdb

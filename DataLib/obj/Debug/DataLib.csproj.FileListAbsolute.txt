@@ -1,0 +1,9 @@
+D:\work\Project\BoostTree\DataLib\bin\Debug\DataLib.dll
+D:\work\Project\BoostTree\DataLib\bin\Debug\DataLib.pdb
+D:\work\Project\BoostTree\DataLib\bin\Debug\TMSNStreams.dll
+D:\work\Project\BoostTree\DataLib\bin\Debug\Vector.dll
+D:\work\Project\BoostTree\DataLib\bin\Debug\TMSNStreams.pdb
+D:\work\Project\BoostTree\DataLib\bin\Debug\Vector.pdb
+D:\work\Project\BoostTree\DataLib\obj\Debug\DataLib.csprojResolveAssemblyReference.cache
+D:\work\Project\BoostTree\DataLib\obj\Debug\DataLib.dll
+D:\work\Project\BoostTree\DataLib\obj\Debug\DataLib.pdb

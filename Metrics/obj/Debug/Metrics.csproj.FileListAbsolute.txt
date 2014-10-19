@@ -1,0 +1,15 @@
+D:\work\Project\BoostTree\Metrics\bin\Debug\Metrics.dll
+D:\work\Project\BoostTree\Metrics\bin\Debug\Metrics.pdb
+D:\work\Project\BoostTree\Metrics\bin\Debug\DataLib.dll
+D:\work\Project\BoostTree\Metrics\bin\Debug\RankingLib.dll
+D:\work\Project\BoostTree\Metrics\bin\Debug\TMSNStreams.dll
+D:\work\Project\BoostTree\Metrics\bin\Debug\Vector.dll
+D:\work\Project\BoostTree\Metrics\bin\Debug\Util.dll
+D:\work\Project\BoostTree\Metrics\bin\Debug\DataLib.pdb
+D:\work\Project\BoostTree\Metrics\bin\Debug\RankingLib.pdb
+D:\work\Project\BoostTree\Metrics\bin\Debug\TMSNStreams.pdb
+D:\work\Project\BoostTree\Metrics\bin\Debug\Vector.pdb
+D:\work\Project\BoostTree\Metrics\bin\Debug\Util.pdb
+D:\work\Project\BoostTree\Metrics\obj\Debug\Metrics.csprojResolveAssemblyReference.cache
+D:\work\Project\BoostTree\Metrics\obj\Debug\Metrics.dll
+D:\work\Project\BoostTree\Metrics\obj\Debug\Metrics.pdb

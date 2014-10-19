@@ -1,0 +1,7 @@
+D:\work\Project\BoostTree\TMSNStore\bin\Debug\TMSNStore.dll
+D:\work\Project\BoostTree\TMSNStore\bin\Debug\TMSNStore.pdb
+D:\work\Project\BoostTree\TMSNStore\bin\Debug\TMSNStreams.dll
+D:\work\Project\BoostTree\TMSNStore\bin\Debug\TMSNStreams.pdb
+D:\work\Project\BoostTree\TMSNStore\obj\Debug\TMSNStore.csprojResolveAssemblyReference.cache
+D:\work\Project\BoostTree\TMSNStore\obj\Debug\TMSNStore.dll
+D:\work\Project\BoostTree\TMSNStore\obj\Debug\TMSNStore.pdb

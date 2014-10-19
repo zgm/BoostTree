@@ -1,0 +1,8 @@
+D:\work\Project\BoostTree\Util\bin\Debug\Util.dll
+D:\work\Project\BoostTree\Util\bin\Debug\Util.pdb
+D:\work\Project\BoostTree\Util\bin\Debug\DiscoverySelection.Shared.dll
+D:\work\Project\BoostTree\Util\bin\Debug\TMSNStreams.dll
+D:\work\Project\BoostTree\Util\obj\Debug\Util.dll
+D:\work\Project\BoostTree\Util\obj\Debug\Util.pdb
+D:\work\Project\BoostTree\Util\bin\Debug\TMSNStreams.pdb
+D:\work\Project\BoostTree\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache

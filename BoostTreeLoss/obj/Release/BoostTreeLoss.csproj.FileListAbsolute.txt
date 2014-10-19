@@ -1,0 +1,4 @@
+D:\work\Project\BoostTree\target\BoostTreeLoss.dll
+D:\work\Project\BoostTree\target\BoostTreeLoss.pdb
+D:\work\Project\BoostTree\BoostTreeLoss\obj\Release\BoostTreeLoss.dll
+D:\work\Project\BoostTree\BoostTreeLoss\obj\Release\BoostTreeLoss.pdb

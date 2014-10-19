@@ -1,0 +1,4 @@
+D:\work\Project\BoostTree\target\IndexGen_DiscoverySelection_CommandLine.dll
+D:\work\Project\BoostTree\target\IndexGen_DiscoverySelection_CommandLine.pdb
+D:\work\Project\BoostTree\CommandLine\obj\Release\IndexGen_DiscoverySelection_CommandLine.dll
+D:\work\Project\BoostTree\CommandLine\obj\Release\IndexGen_DiscoverySelection_CommandLine.pdb

@@ -1,0 +1,5 @@
+D:\work\Project\BoostTree\DiscoverySelection.Shared\bin\Debug\DiscoverySelection.Shared.dll
+D:\work\Project\BoostTree\DiscoverySelection.Shared\bin\Debug\DiscoverySelection.Shared.pdb
+D:\work\Project\BoostTree\DiscoverySelection.Shared\obj\Debug\DiscoverySelection.Shared.dll
+D:\work\Project\BoostTree\DiscoverySelection.Shared\obj\Debug\DiscoverySelection.Shared.pdb
+D:\work\Project\BoostTree\DiscoverySelection.Shared\obj\Debug\DiscoverySelection.Shared.csprojResolveAssemblyReference.cache

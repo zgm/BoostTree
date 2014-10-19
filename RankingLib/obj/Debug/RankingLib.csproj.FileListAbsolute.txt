@@ -1,0 +1,9 @@
+D:\work\Project\BoostTree\RankingLib\bin\Debug\RankingLib.dll
+D:\work\Project\BoostTree\RankingLib\bin\Debug\RankingLib.pdb
+D:\work\Project\BoostTree\RankingLib\bin\Debug\TMSNStreams.dll
+D:\work\Project\BoostTree\RankingLib\bin\Debug\Util.dll
+D:\work\Project\BoostTree\RankingLib\bin\Debug\TMSNStreams.pdb
+D:\work\Project\BoostTree\RankingLib\bin\Debug\Util.pdb
+D:\work\Project\BoostTree\RankingLib\obj\Debug\RankingLib.csprojResolveAssemblyReference.cache
+D:\work\Project\BoostTree\RankingLib\obj\Debug\RankingLib.dll
+D:\work\Project\BoostTree\RankingLib\obj\Debug\RankingLib.pdb

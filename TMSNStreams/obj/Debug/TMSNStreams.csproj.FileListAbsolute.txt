@@ -1,0 +1,5 @@
+D:\work\Project\BoostTree\TMSNStreams\bin\Debug\TMSNStreams.dll
+D:\work\Project\BoostTree\TMSNStreams\bin\Debug\TMSNStreams.pdb
+D:\work\Project\BoostTree\TMSNStreams\obj\Debug\TMSNStreams.dll
+D:\work\Project\BoostTree\TMSNStreams\obj\Debug\TMSNStreams.pdb
+D:\work\Project\BoostTree\TMSNStreams\obj\Debug\TMSNStreams.csprojResolveAssemblyReference.cache

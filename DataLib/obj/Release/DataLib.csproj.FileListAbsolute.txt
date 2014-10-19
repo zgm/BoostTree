@@ -1,0 +1,5 @@
+D:\work\Project\BoostTree\target\DataLib.dll
+D:\work\Project\BoostTree\target\DataLib.pdb
+D:\work\Project\BoostTree\DataLib\obj\Release\DataLib.csprojResolveAssemblyReference.cache
+D:\work\Project\BoostTree\DataLib\obj\Release\DataLib.dll
+D:\work\Project\BoostTree\DataLib\obj\Release\DataLib.pdb

@@ -1,0 +1,7 @@
+D:\work\Project\BoostTree\Model\bin\Debug\Model.dll
+D:\work\Project\BoostTree\Model\bin\Debug\Model.pdb
+D:\work\Project\BoostTree\Model\bin\Debug\TMSNStreams.dll
+D:\work\Project\BoostTree\Model\bin\Debug\TMSNStreams.pdb
+D:\work\Project\BoostTree\Model\obj\Debug\Model.dll
+D:\work\Project\BoostTree\Model\obj\Debug\Model.pdb
+D:\work\Project\BoostTree\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

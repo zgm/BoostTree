@@ -1,0 +1,6 @@
+D:\work\Project\BoostTree\Vector\bin\Debug\Vector.dll
+D:\work\Project\BoostTree\Vector\bin\Debug\Vector.pdb
+D:\work\Project\BoostTree\Vector\obj\Debug\Vector.dll
+D:\work\Project\BoostTree\Vector\obj\Debug\Vector.pdb
+D:\work\Project\BoostTree\target\Vector.dll
+D:\work\Project\BoostTree\target\Vector.pdb

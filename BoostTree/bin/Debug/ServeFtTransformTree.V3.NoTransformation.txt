@@ -1,0 +1,170 @@
+FeatureTransformVersion=1
+NumFeatures=56
+# pageRank
+0
+X
+# domainRank
+0
+X 
+# viewCount
+0
+X
+# userRating
+0
+X
+# userRatingCount
+0
+X
+# commentCount
+0
+X
+# vmIeDataWeightedDecay1
+0
+X
+# vmIeDataWeightedDecay4
+0
+X
+# vmIeDataWeightedDecay8
+0
+X
+# vmIeDataWeightedDecay16
+0
+X
+# vmIeDataWeightedDecay32
+0
+X
+# vmIeDataWeightedDecay64
+0
+X
+# mIeDataWeightedDecay1
+0
+X
+# mIeDataWeightedDecay4
+0
+X
+# mIeDataWeightedDecay8
+0
+X
+# mIeDataWeightedDecay16
+0
+X
+# mIeDataWeightedDecay32
+0
+X
+# mIeDataWeightedDecay64
+0
+X
+# mIEBrowseDataWeightedDecay1
+0
+X
+# mIEBrowseDataWeightedDecay4
+0
+X
+# mIEBrowseDataWeightedDecay8
+0
+X
+# mIEBrowseDataWeightedDecay16
+0
+X
+# mIEBrowseDataWeightedDecay32
+0
+X
+# mIEBrowseDataWeightedDecay64
+0
+X
+# BingViewDataWeightedDecay1
+0
+X
+# BingViewDataWeightedDecay4
+0
+X
+# BingViewDataWeightedDecay8
+0
+X
+# BingViewDataWeightedDecay16
+0
+X
+# BingViewDataWeightedDecay32
+0
+X
+# BingViewDataWeightedDecay64
+0
+X
+# BingClickDataWeightedDecay1
+0
+X
+# BingClickDataWeightedDecay4
+0
+X
+# BingClickDataWeightedDecay8
+0
+X
+# BingClickDataWeightedDecay16
+0
+X
+# BingClickDataWeightedDecay32
+0
+X
+# BingClickDataWeightedDecay64
+0
+X
+# Hovers
+0
+X
+# viewCountLastUpdateTime
+0
+X
+# viewCountDataWeightedDecay1
+0
+X
+# viewCountDataWeightedDecay4
+0
+X
+# viewCountDataWeightedDecay8
+0
+X
+# viewCountDataWeightedDecay16
+0
+X
+# viewCountDataWeightedDecay32
+0
+X
+# viewCountDataWeightedDecay64
+0
+X
+# RawPageRank
+0
+X
+# InLinkCount
+0
+X
+# IntraDomainInLinkCount
+0
+X
+# CurveFitPageRank32
+0
+X
+# pubDate
+0
+X
+# GClickHub
+0
+X
+# GClickAuth
+0
+X
+# BClickHub
+0
+X
+# BClickAuth
+0
+X
+# Block
+0
+X
+# BlockIn32days
+0
+X
+# BlockIn16days
+0
+X

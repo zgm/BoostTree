@@ -1,0 +1,6 @@
+D:\work\Project\BoostTree\BoostTree\bin\Debug\BoostTree.exe.config
+D:\work\Project\BoostTree\BoostTree\bin\Debug\BoostTree.exe
+D:\work\Project\BoostTree\BoostTree\bin\Debug\BoostTree.pdb
+D:\work\Project\BoostTree\BoostTree\obj\Debug\BoostTree.csprojResolveAssemblyReference.cache
+D:\work\Project\BoostTree\BoostTree\obj\Debug\BoostTree.exe
+D:\work\Project\BoostTree\BoostTree\obj\Debug\BoostTree.pdb

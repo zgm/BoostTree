@@ -1,0 +1,6 @@
+D:\work\Project\BoostTree\target\DataProcess.exe.config
+D:\work\Project\BoostTree\target\DataProcess.exe
+D:\work\Project\BoostTree\target\DataProcess.pdb
+D:\work\Project\BoostTree\DataProcess\obj\Release\DataProcess.csprojResolveAssemblyReference.cache
+D:\work\Project\BoostTree\DataProcess\obj\Release\DataProcess.exe
+D:\work\Project\BoostTree\DataProcess\obj\Release\DataProcess.pdb

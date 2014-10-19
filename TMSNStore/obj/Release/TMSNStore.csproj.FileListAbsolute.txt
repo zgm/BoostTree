@@ -1,0 +1,4 @@
+D:\work\Project\BoostTree\Target\TMSNStore.dll
+D:\work\Project\BoostTree\Target\TMSNStore.pdb
+D:\work\Project\BoostTree\TMSNStore\obj\Release\TMSNStore.dll
+D:\work\Project\BoostTree\TMSNStore\obj\Release\TMSNStore.pdb

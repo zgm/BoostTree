@@ -1,0 +1,4 @@
+D:\work\Project\BoostTree\CommandLine\bin\Debug\CommandLine.dll
+D:\work\Project\BoostTree\CommandLine\bin\Debug\CommandLine.pdb
+D:\work\Project\BoostTree\CommandLine\obj\Debug\CommandLine.dll
+D:\work\Project\BoostTree\CommandLine\obj\Debug\CommandLine.pdb

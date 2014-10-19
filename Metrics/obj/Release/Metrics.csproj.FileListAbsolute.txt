@@ -1,0 +1,5 @@
+D:\work\Project\BoostTree\target\Metrics.dll
+D:\work\Project\BoostTree\target\Metrics.pdb
+D:\work\Project\BoostTree\Metrics\obj\Release\Metrics.csprojResolveAssemblyReference.cache
+D:\work\Project\BoostTree\Metrics\obj\Release\Metrics.dll
+D:\work\Project\BoostTree\Metrics\obj\Release\Metrics.pdb
